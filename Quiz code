@@ -1,0 +1,209 @@
+#name:max allison
+#date:31/08/2023
+#purpose: to ask the user if they want to do the quiz.
+#version:v4
+#1 sequene: QUIZ intro
+
+
+print ("           QUIZ")
+    
+while True:
+
+        quiz = input("do you what to play the quiz?\n:").lower()
+        
+        if quiz == "yes" or quiz == "y":
+          break
+         
+    
+    
+        if quiz == "no" or quiz == "n":
+         print ("well see you later") 
+         break
+    
+        else: print ("can i have a yes or a no")
+        
+
+while True:
+      print()
+      one = input("one.\nwhat is a type of memory in a computer?\nteraflup ?\ncbu ?\nram ?\n:").lower()
+            
+         
+      if one == "ram":
+         print ("you are correct :)")
+         break
+        
+      if one == "cbu" or one == "teraflup":
+         print ("that is not right.:(")
+         break
+    
+      else: print ("can you pick a one of the answers")
+#name:max allison 
+#date:31/08/2023
+#purpose:to quiz the user on the topic.
+#version:v5
+#2 sequene:the Quiz
+
+
+while True:
+        second = input("second. \nwhat is a form of long term memeory? \nflopy disc? \nram?\n cpu?.\n:").lower() 
+              
+        if second == "flopy disc":
+            print ("you are right :)")
+            break
+        if second == "cpu": 
+            print ("not are right :(")
+            break
+    
+        if second == "ram":
+            print ("not are right :(")
+            break
+    
+        else: print ("can you pick a one of the answers")
+    
+    
+    
+    
+    
+while True:
+        three = input("three. \nwhat does a hard drive do? \nstores memeory?\npowers the computer?\ndoes nothing?\n:").lower() 
+              
+        if three == "stores memeory":
+            print ("you very good at my quiz.")
+            break
+        if three == "powers the computer": 
+            print ("no your are bad at thinking.")
+            break
+    
+        if three == "does nothing":
+            print ("why would you do this?")
+            break
+    
+        else: print ("can you pick a one of the answers")
+    
+    
+    
+    
+while True:
+        four = input("four. \nwhat is a key bord for? \ntyping words?\nreading?\nplaying games?\n: ").lower() 
+              
+        if four == "playing games":
+            print ("Really...really?")
+            break
+        if four == "reading": 
+            print ("no...what?")
+            break
+    
+        if four == "typing words":
+            print ("your right good job")
+            break
+    
+        else: print ("can you pick a one of the answers")
+    
+    
+while True:
+        five = input("five. \nwhat is a cpu do? \ncomputing power\nthe power output\nlooks cool\n:").lower() 
+              
+        if five == "the power output":
+            print ("you are not smart")
+            break
+        if five == "computing power": 
+            print ("you are big brain")
+            break
+    
+        if five == "looks cool":
+            print ("I hate you")
+            break
+    
+        else: print ("can you pick a one of the answers")
+    
+    
+    
+    
+while True:
+        six = input("six. \nwhat is microsoft make most of their money from. \nhard-wear?\nsoft-wear?\nfood?\n: ").lower() 
+              
+        if six == "food" or six == "food":
+            print ("no -_-")
+            break
+        if six == "hard-wear": 
+            print ("you are cringe")
+            break
+    
+        if six == "soft-wear":
+            print ("yes it's cloud gameing.")
+            break
+    
+        else: print ("can you pick a one of the answers")
+    
+    
+while True:
+        seven = input("seven. \nwhat does panasonic make. \nphones\nheadphones\ntv's\n:").lower() 
+              
+        if seven == "phones":
+            print ("no samsung and panasonic are not the same company.")
+            break
+        if seven == "headphones": 
+            print ("they make headphones yes")
+            break
+    
+        if seven == "tv's":
+            print ("they make tv's ")
+            break
+    
+        else: print ("can you pick a one of the answers")
+    
+    
+    
+    
+    
+while True:
+        eight = input("eight. \nwhat is a superconder \na magnet\nit levitates\nit has a cool name \n:").lower() 
+              
+        if eight == "it has a cool name":
+            print ("you are wrong")
+            break
+        if eight == "magnet": 
+            print ("kind of")
+            break
+    
+        if eight == "it levitates":
+            print ("i does some cool name")
+            break
+        
+        else: print ("can you pick a one of the answers")
+    
+    
+    
+    
+    
+while True:
+        nine = input("nine \nwhat does a pc stand for? \npersonal computer?\npersonal cat?\n no?\n: ").lower() 
+              
+        if nine == "no":
+            print ("?")
+            break
+        if nine == "personal computer": 
+            print ("yes")
+            break
+    
+        if nine == "personal cat":
+            print ("your not that smart.")
+            break
+        
+        else: print ("can you pick a one of the answers")
+    
+while True:
+        ten = input("have i ranout of ideas.\nyes\nyes\nyes\n:").lower() 
+              
+        if ten == "yes":
+            print ("i have")
+            break
+        if ten == "yes": 
+            print ("i have")
+            break
+    
+        if ten == "yes":
+            print ("i have")
+            break
+
+
